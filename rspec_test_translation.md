@@ -1,5 +1,5 @@
 ```ruby
-# mermaid.rb
+# mermaid_spec.rb
 require 'rspec'
 require './lib/mermaid'
 
